@@ -9,4 +9,4 @@
       
 
 
-Open the above file as a unity project, and build it after clearing all the errors if any due to your system's compatibility. Plug in your Kinect and Enjoy 
+Open the above folder as a unity project, and build it after clearing all the errors if any due to your system's compatibility. Plug in your Kinect and Enjoy 
